@@ -1,5 +1,3 @@
-// 10-26
-
 /**
  * @param {string} s
  * @param {string} t
